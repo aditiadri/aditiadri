@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science student with a keen interest in data analytics and machine learning. Proficient in utilizing skills to construct effective machine learning models, aspiring to contribute expertise in the domain of data analysis.</h3>
 <img align="right" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" length=200 width=200>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiadri&label=Profile%20views&color=0e75b6&style=flat" alt="aditiadri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditiadri" alt="aditiadri" /></a> </p>
 
 - 🌱 I’m currently learning **keras,seaborn**
 
