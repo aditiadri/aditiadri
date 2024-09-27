@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **keras,seaborn**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditiadri](https://github.com/aditiadri)
 
-- 💬 Ask me about **NLP,GenAI**
+-
 
 - 📫 How to reach me **adpandey2k2@gmail.com**
 
