@@ -8,11 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditiadri](https://github.com/aditiadri)
 
--
-
 - 📫 How to reach me **adpandey2k2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14r5pqvFFHY7wFkXqn9DEt-qTIvpLZrfw/view?usp=sharing](https://drive.google.com/file/d/14r5pqvFFHY7wFkXqn9DEt-qTIvpLZrfw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
