@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">Computer Science student with a keen interest in data analytics and machine learning. Proficient in utilizing skills to construct effective machine learning models, aspiring to contribute expertise in the domain of data analysis.</h3>
+<h3 align="center">A final year Computer Science student.</h3>
 <img align="right" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" length=250 width=225>
 
 
