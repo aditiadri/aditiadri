@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi</h1>
+<h1 align="center">Hi , I'm Aditi</h1>
 <h3 align="center">A final year Computer Science student.</h3>
 <img align="right" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" length=250 width=225>
 
